@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string-array name="spinner_list_item">
+        <item>kg to lbs</item>
+        <item>degree to Fahrenheit</item>
+        <item>Fahrenheit to degree</item>
+        <item>lbs to kg</item>
+    </string-array>
+</resources>
